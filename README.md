@@ -24,18 +24,18 @@ For me, a successful analysis doesn't end with a model or dashboard. It ends whe
 
 ## 📊 Featured Projects
 
+U.S. Freight Transportation Analysis
 
-### 📈 Data Analysis Project
-Coming soon.
+Analyzed 2022 U.S. freight movement using Python and FAF6 data to uncover patterns across commodities, transportation modes, freight zones, trade flows, and economic value.
 
-### 🤖 Machine Learning Project
-Coming soon.
+[View Project](https://github.com/Obinna-De-Analyst/us-freight-transportation-analysis)
 
-### 🗄️ SQL Project
-Coming soon.
+NYC Contracts Analysis
 
-### 📊 Business Intelligence Dashboard
-Coming soon.
+Analyzed New York City contract data in SQL Server, focusing on contract lifecycle, duration, spending-to-award utilization, record structure, and data-quality issues.
+
+[View Project](https://github.com/Obinna-De-Analyst/nyc-contracts-analysis)
+
 
 ## 🌱 Currently Developing
 
